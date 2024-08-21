@@ -1,10 +1,6 @@
 ## Olá! Eu sou o Diogo Felix 👨‍💻
 
-Meu
-
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/diogo-felix-784242bb/)
-
-Meu Status
 
 ![Status](https://github-readme-stats.vercel.app/api?username=diogocarpio&show_icons=true&theme=dracula)
 
