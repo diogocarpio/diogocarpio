@@ -6,7 +6,7 @@ Meu
 
 Meu Status
 
-![Status](https://github-readme-stats.vercel.app/api?username=diogocarpio_icons=true&theme=dracula)
+![Status](https://github-readme-stats.vercel.app/api?username=diogocarpio&show_icons=true&theme=dracula)
 
 ## Tecnologias que eu uso no meu dia
 
