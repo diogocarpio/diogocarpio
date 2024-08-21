@@ -6,7 +6,7 @@ Meu
 
 Meu Status
 
-[![Status](https://github-readme-stats.vercel.app/api/top-langs/?username={diogocarpio}&theme=blue-green)](https://github.com/diogocarpio)
+![Status](https://github-readme-stats.vercel.app/api/top-langs/?username={diogocarpio}&theme=blue-green)
 
 ## Tecnologias que eu uso no meu dia
 
