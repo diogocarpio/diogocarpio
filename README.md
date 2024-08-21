@@ -6,7 +6,7 @@ Meu
 
 Meu Status
 
-[![Status](https://github-readme-stats.vercel.app/api/top-langs/?username={diogocarpio}&theme=blue-green)]
+[![Status](https://github-readme-stats.vercel.app/api/top-langs/?username={diogocarpio}&theme=blue-green)](https://github.com/diogocarpio)
 
 ## Tecnologias que eu uso no meu dia
 
@@ -30,6 +30,6 @@ Meu Status
   <img align="center" alt="Youtube" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
 </div><br/>
 
-## Podcast de tecnologia que recomendo demais para vocês se atualizarem no dia a dia e agregar mais conhecimento na sua área.
+Podcast de tecnologia que recomendo demais para vocês se atualizarem no dia a dia e agregar mais conhecimento na sua área.
 
 [![Podcast](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/show/2p0Vx75OmfsXktyLBuLuSf)
